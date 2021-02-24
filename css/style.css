@@ -1,0 +1,170 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;700&display=swap');
+</style>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+</style>
+
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+button {
+	cursor: pointer;
+	background-color: transparent;
+}
+
+.header {
+}
+.logo {
+	font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 51px;
+color: #10375C;
+}
+.logo__text {
+}
+.header-menu {
+}
+.header-menu__item {
+	font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 28px;
+margin-left: 30px;
+color: #222831;
+}
+.autorization {
+}
+.autorization__log-in {
+}
+.autorization__sing-up {
+}
+.main {
+}
+.introducing {
+}
+.text {
+	font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+}
+.logo_big {
+	font-size: 52px;
+line-height: 67px;
+}
+.logo_red {
+	color: rgba(221, 44, 0, 1);
+}
+.statistics {
+}
+.statistics__data {
+}
+.img {
+}
+.statistics__numbers {
+	font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 41px;
+color: #10375C;
+}
+.statistics__clarification {
+	font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+color: #9A9A9A;
+}
+.statistics__img {
+}
+.who-uses {
+}
+.who-uses__company {
+}
+.who-uses__company-img {
+}
+.news {
+}
+.productivity {
+}
+.productivity__img {
+}
+.productivity__question {
+	font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 28px;
+}
+.productivity__name {
+	font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+color: #9A9A9A;
+}
+.why {
+	background-color: #10375C;
+}
+.text-up {
+	font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+}
+.logo_white{
+color: white;
+}
+.text_white{
+	color: white;
+}
